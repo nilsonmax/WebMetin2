@@ -1,31 +1,33 @@
 Web Metin2
-=========
+==========
 
-Web para servidores Metin2
----
+/************* Personas en el Proyecto ************/
 
 
-∑ Tiene el apartado de items mas vendidos.
+Rimander (" CodeMoved ")
 
-∑ Un panel lo mas completo que me dio tiempo.
 
-∑ Sistema de actualizaciones.
+/************* DescripciÛn del Proyecto ************/
 
-∑ Tickets en la web.
-
-∑ Ranking en inicio (Usuarios y Gremio)
-
-∑ Reset de contrase√±a por email
-
-∑ Instalaci√≥n de donaciones paypal y sms (Recusos moviles) desde el instalador.
-
-∑ Instalador sencillo.
-
-∑ Item shop con log (Pr√≥ximamente podr√°s ver el log en el panel)
-
-∑ Zona para chat.
-
-∑ Seguimiento de baneos a una cuenta
-
-∑ Y mas cosas
-
+ 
+    ï Tiene el apartado de items mas vendidos.
+  
+    ï Un panel lo mas completo que me dio tiempo.
+   
+    ï Sistema de actualizaciones.
+  
+    ï Tickets en la web.
+  
+    ï Itemshop
+  
+    ï Reset de contrase√±a por email
+  
+    ï Instalaci√≥n de donaciones paypal y sms (Recusos moviles) desde el instalador.
+    
+    ï Instalador sencillo.
+    
+    ï Zona chat.
+    
+    ï Seguimiento de baneos a una cuenta
+    
+	ï Y mucho mas.    
