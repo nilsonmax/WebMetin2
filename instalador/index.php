@@ -16,7 +16,7 @@ echo'
 	</head>
 	<body>
 		<div id="header">
-		 <h1 style="margin-left:150px;">Web V 2.0 Metin2 By ZonaMaster</h1>
+		 <h1 style="margin-left:150px;">Web V 2.0 Metin2 By Rimander</h1>
 		</div>
 		
 <div id="system-message-container">
