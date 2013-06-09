@@ -5,27 +5,27 @@ Web para servidores Metin2
 ---
 
 
-Â· Tiene el apartado de items mas vendidos.
+· Tiene el apartado de items mas vendidos.
 
-Â· Un panel lo mas completo que me dio tiempo.
+· Un panel lo mas completo que me dio tiempo.
 
-Â· Sistema de actualizaciones.
+· Sistema de actualizaciones.
 
-Â· Tickets en la web.
+· Tickets en la web.
 
-Â· Ranking en inicio (Usuarios y Gremio)
+· Ranking en inicio (Usuarios y Gremio)
 
-Â· Reset de contraseÃ±a por email
+· Reset de contraseÃ±a por email
 
-Â· InstalaciÃ³n de donaciones paypal y sms (Recusos moviles) desde el instalador.
+· InstalaciÃ³n de donaciones paypal y sms (Recusos moviles) desde el instalador.
 
-Â· Instalador sencillo.
+· Instalador sencillo.
 
-Â· Item shop con log (PrÃ³ximamente podrÃ¡s ver el log en el panel)
+· Item shop con log (PrÃ³ximamente podrÃ¡s ver el log en el panel)
 
-Â· Zona para chat.
+· Zona para chat.
 
-Â· Seguimiento de baneos a una cuenta
+· Seguimiento de baneos a una cuenta
 
-Â· Y mas cosas
+· Y mas cosas
 
