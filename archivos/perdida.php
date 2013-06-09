@@ -23,13 +23,17 @@ if(mysql_num_rows($vista)>0){
 	$rand = rand(1,7);
 	$nuevapass =  $array[$rand];
 		$para = $email;
-					$asunto = "Pass Metin2";
+		
+		$asunto = "Pass Metin2";
 		$mensaje = "---------------------------------- \n";
 		$mensaje.= "Nueva pass:".$nuevapass." \n";
+		$mensaje.= "---------------------------------- \n";
+		
         mail($para, $asunto, utf8_decode($mensaje));  
 											
                                                              
-	mysql_query("UPDATE account SET password = PASSWORD('".$nuevapass."') WHERE login='".$nombre."' ");
+	$sql_final = "UPDATE account SET password = PASSWORD('".$nuevapass."') WHERE login='".$nombre."' ";
+	mysql_query($sql_final,$sqlserver);
 	echo'Cambiada';
 
 }
